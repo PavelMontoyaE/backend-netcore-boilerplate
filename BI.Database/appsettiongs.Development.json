@@ -1,0 +1,5 @@
+{
+  "Connections": {
+    "SqlCommandConnection": "server=localhost; user=dev; password=Arkus@123; database=asainexus"
+  }
+}

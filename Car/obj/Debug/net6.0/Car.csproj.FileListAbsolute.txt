@@ -1,0 +1,5 @@
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.csproj.AssemblyReference.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.AssemblyInfoInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.AssemblyInfo.cs
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.csproj.CoreCompileInputs.cache

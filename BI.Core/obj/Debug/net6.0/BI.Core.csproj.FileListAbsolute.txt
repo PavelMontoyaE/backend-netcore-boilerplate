@@ -1,0 +1,5 @@
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.csproj.AssemblyReference.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.AssemblyInfoInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.AssemblyInfo.cs
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.csproj.CoreCompileInputs.cache

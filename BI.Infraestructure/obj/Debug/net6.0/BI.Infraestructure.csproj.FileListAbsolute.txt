@@ -1,0 +1,12 @@
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/bin/Debug/net6.0/BI.Infraestructure.deps.json
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/bin/Debug/net6.0/BI.Infraestructure.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/bin/Debug/net6.0/BI.Infraestructure.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.csproj.AssemblyReference.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.AssemblyInfoInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.AssemblyInfo.cs
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.csproj.CoreCompileInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/refint/BI.Infraestructure.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/BI.Infraestructure.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Infraestructure/obj/Debug/net6.0/ref/BI.Infraestructure.dll
