@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 namespace BI.Database;
 
 class Program {
-    private static string _schema = "database";
+    private static string _schema = "public";
 
     static int Main(string[] args)
     {
@@ -20,6 +20,7 @@ class Program {
             .Build();
 
         var connectionString = config["Connections:SqlCommandConnection"];
+        Console.WriteLine(config["Connections.SqlCommandConnection"]);
 
         var builder = DeployChanges.To
             .PostgresqlDatabase(connectionString)
@@ -31,9 +32,7 @@ class Program {
         builder.Configure(c => c.Journal = new PostgresqlTableJournal(() => c.ConnectionManager, () => c.Log, _schema, "schemaversions"));
         var upgrader = builder.Build();
 
-#if DEBUG
         EnsureDatabase.For.PostgresqlDatabase(connectionString);
-#endif
 
         var result = upgrader.PerformUpgrade();
 
@@ -42,10 +41,8 @@ class Program {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(result.Error);
             Console.ResetColor();
-                
-#if DEBUG
+            
             Console.ReadLine();
-#endif
                 
             return -1;
         }
@@ -54,9 +51,7 @@ class Program {
         Console.WriteLine(result.Successful);
         Console.ResetColor();
                 
-#if DEBUG
         Console.ReadLine();
-#endif
 
         return 0;
     }

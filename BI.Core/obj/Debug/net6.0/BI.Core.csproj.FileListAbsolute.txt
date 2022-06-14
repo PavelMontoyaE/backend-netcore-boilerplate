@@ -3,3 +3,10 @@
 /home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.AssemblyInfoInputs.cache
 /home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.AssemblyInfo.cs
 /home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.csproj.CoreCompileInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/bin/Debug/net6.0/BI.Core.deps.json
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/bin/Debug/net6.0/BI.Core.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/bin/Debug/net6.0/BI.Core.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/refint/BI.Core.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/BI.Core.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/obj/Debug/net6.0/ref/BI.Core.dll

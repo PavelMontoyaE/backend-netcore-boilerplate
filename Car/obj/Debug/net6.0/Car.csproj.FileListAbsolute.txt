@@ -3,3 +3,15 @@
 /home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.AssemblyInfoInputs.cache
 /home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.AssemblyInfo.cs
 /home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.csproj.CoreCompileInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/Car.deps.json
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/Car.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/Car.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/BI.Core.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/User.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/BI.Core.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/bin/Debug/net6.0/User.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.csproj.CopyComplete
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/refint/Car.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/Car.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Car/obj/Debug/net6.0/ref/Car.dll

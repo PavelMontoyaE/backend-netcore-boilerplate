@@ -1,0 +1,15 @@
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/bin/Debug/net6.0/User.deps.json
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/bin/Debug/net6.0/User.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/bin/Debug/net6.0/User.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/bin/Debug/net6.0/BI.Core.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/bin/Debug/net6.0/BI.Core.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.csproj.AssemblyReference.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.AssemblyInfoInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.AssemblyInfo.cs
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.csproj.CoreCompileInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.csproj.CopyComplete
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/refint/User.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/User.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/User/obj/Debug/net6.0/ref/User.dll

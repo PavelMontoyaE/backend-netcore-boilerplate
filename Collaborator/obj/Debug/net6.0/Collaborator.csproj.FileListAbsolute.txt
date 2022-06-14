@@ -1,0 +1,15 @@
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.csproj.AssemblyReference.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.AssemblyInfoInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.AssemblyInfo.cs
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.csproj.CoreCompileInputs.cache
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/bin/Debug/net6.0/Collaborator.deps.json
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/bin/Debug/net6.0/Collaborator.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/bin/Debug/net6.0/Collaborator.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/bin/Debug/net6.0/BI.Core.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/bin/Debug/net6.0/BI.Core.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.csproj.CopyComplete
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/refint/Collaborator.dll
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/Collaborator.pdb
+/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/Debug/net6.0/ref/Collaborator.dll

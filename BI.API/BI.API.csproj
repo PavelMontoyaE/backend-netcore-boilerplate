@@ -8,11 +8,15 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0-preview.5.22301.12" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2-beta1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\BI.Core\BI.Core.csproj" />
+      <ProjectReference Include="..\Collaborator\Collaborator.csproj" />
     </ItemGroup>
 
 </Project>

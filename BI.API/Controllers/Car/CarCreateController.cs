@@ -11,5 +11,5 @@ namespace BI.API.Controllers.Car;
 // [Authorize] implementations join with interfaces
 public class CarCreateController : BaseApiController
 {
-    private readonly ICarCreateService _carCreateService;
+    // private readonly ICreateService _carCreateService;
 }

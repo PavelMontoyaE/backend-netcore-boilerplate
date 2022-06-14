@@ -28,6 +28,9 @@
             "projectReferences": {
               "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/BI.Core.csproj": {
                 "projectPath": "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/BI.Core.csproj"
+              },
+              "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/Collaborator.csproj": {
+                "projectPath": "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/Collaborator.csproj"
               }
             }
           }
@@ -42,6 +45,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0-preview.5.22301.12, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2-beta1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -126,6 +141,72 @@
             "Npgsql": {
               "target": "Package",
               "version": "[7.0.0-preview.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/Collaborator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/Collaborator.csproj",
+        "projectName": "Collaborator",
+        "projectPath": "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/Collaborator.csproj",
+        "packagesPath": "/home/mind/.nuget/packages/",
+        "outputPath": "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/Collaborator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mind/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/BI.Core.csproj": {
+                "projectPath": "/home/mind/Code/backend-netcore-boilerplate/backend-netcore-boilerplate/BI.Core/BI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
             }
           },
           "imports": [

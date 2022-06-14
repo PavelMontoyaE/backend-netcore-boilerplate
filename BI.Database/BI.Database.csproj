@@ -9,14 +9,32 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="dbup-core" Version="4.6.3" />
-      <PackageReference Include="dbup-postgresql" Version="4.6.3" />
-      <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0-preview.4.22229.4" />
-      <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="7.0.0-preview.4.22229.4" />
-      <PackageReference Include="Microsoft.Extensions.Configuration.FileProviderExtensions" Version="1.0.0-rc1-final" />
-      <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0-preview.4.22229.4" />
-      <PackageReference Include="Microsoft.Extensions.FileProviders.Composite" Version="7.0.0-preview.4.22229.4" />
-      <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="7.0.0-preview.4.22251.1" />
+        <PackageReference Include="dbup-core" Version="4.6.3" />
+        <PackageReference Include="dbup-postgresql" Version="4.6.3" />
+        <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0-preview.4.22229.4" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="7.0.0-preview.4.22229.4" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.FileProviderExtensions" Version="1.0.0-rc1-final" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0-preview.4.22229.4" />
+        <PackageReference Include="Microsoft.Extensions.FileProviders.Composite" Version="7.0.0-preview.4.22229.4" />
+        <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="7.0.0-preview.4.22251.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Scripts\Script_0001_Create_Tables.sql" />
+      <EmbeddedResource Include="Scripts\Script_0001_Create_Tables.sql">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="appsettings.json" />
+      <Content Include="appsettings.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="appsettings.Development.json" />
+      <Content Include="appsettings.Development.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
     </ItemGroup>
 
 </Project>
