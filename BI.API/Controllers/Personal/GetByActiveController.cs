@@ -1,7 +1,7 @@
 using System.Net;
 using BI.Core;
 using BI.Core.Response;
-using Collaborator.Services.Personal.Contracts;
+using Collaborator.Services.Personal.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BI.API.Controllers.Personal;

@@ -6,7 +6,7 @@ using BI.Core.Response;
 using Collaborator.Entities;
 using Collaborator.Repositories.Personal.Contracts;
 using Collaborator.Responses.Personal;
-using Collaborator.Services.Personal.Contracts;
+using Collaborator.Services.Personal.Interfaces;
 
 namespace Collaborator.Services.Personal;
 

@@ -19,4 +19,9 @@
       <ProjectReference Include="..\Collaborator\Collaborator.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Controllers\Collaborator\Contracts" />
+      <Folder Include="Controllers\Finances" />
+    </ItemGroup>
+
 </Project>
